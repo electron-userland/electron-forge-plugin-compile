@@ -1,6 +1,6 @@
 {
   "name": "@electron-forge/plugin-compile",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Electron Compile plugin for forge",
   "main": "dist/index.js",
   "author": "Samuel Attard",
