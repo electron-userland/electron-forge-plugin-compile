@@ -18,7 +18,8 @@
     "gulp-babel": "^6.0.1"
   },
   "scripts": {
-    "build": "gulp build"
+    "build": "gulp build",
+    "prepublish": "yarn build"
   },
   "engines": {
     "node": ">= 6.0"
