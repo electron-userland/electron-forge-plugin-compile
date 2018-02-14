@@ -14,7 +14,6 @@ export class CompilePlugin {
   }
 
   getHook(name) {
-    console.log(name);
     switch (name) {
       case 'packageAfterCopy':
         return createPackagerCompileHook(this.dir, this.asyncOra);
