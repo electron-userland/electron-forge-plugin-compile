@@ -1,3 +1,13 @@
+REPOSITORY OBSOLETE
+===================
+
+This repository has been merged into [Electron Forge](https://github.com/electron-userland/electron-forge) proper as of version 6.
+
+What follows is the original README.md:
+
+----
+
+
 Electron Forge Plugin Compile
 -----------------------------
 
